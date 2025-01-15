@@ -1,4 +1,7 @@
 # Autism-Prediction
+![Autism Model](https://www.osfhealthcare.org/blog/wp-content/uploads/2019/05/choi-autism-ft5.jpg)
+
+
 # Autism Prediction using Machine Learning
 
 This project aims to predict whether a patient is diagnosed with Autism Spectrum Disorder (ASD) based on a variety of features such as scores from an Autism Spectrum Quotient (AQ) screening tool, demographic information, and family history.
